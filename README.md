@@ -1,6 +1,6 @@
 ## Hey there, I'm Atheen Aleesa 👋
 
-I am a junior software engineer. Well-acquainted with Java, HTML/CSS, JavaScript, Python, React and Django framework. This is where I share things that worked and broke.
+I am a junior software engineer. Well-acquainted with JavaScript, Python, Java, HTML/CSS, React and Django frameworks. This is where I share things that worked and broke.
 
 <!--
 **atheen/atheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
